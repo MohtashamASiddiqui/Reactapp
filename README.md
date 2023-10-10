@@ -1,3 +1,7 @@
+Project Description:
+I have created this react app which will show the price of Cyptro price. The data is being fetched from an api
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
