@@ -1,4 +1,4 @@
-Project Description:
+# Project Description:
 I have created this react app which will show the price of Cyptro price. The data is being fetched from an api
 
 
